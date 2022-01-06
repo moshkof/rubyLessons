@@ -1,0 +1,8 @@
+def salary
+	puts "salary"
+	puts 1000
+	
+# this comments
+end
+
+salary
